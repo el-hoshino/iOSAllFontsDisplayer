@@ -1,0 +1,10 @@
+#Default ignore files with Xcode.
+*~
+*.xcworkspace/xcuserdata/*
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcworkspace/contents.xcworkspacedata
+.DS_Store
+
+#Exclude derived data
+/DerivedData/
